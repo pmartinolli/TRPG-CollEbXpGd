@@ -51,6 +51,11 @@ Generalization : using the claim of a very specific study to TRPG
 Specialization : using the claim of a very broad field and apply it to TRPG
 
 
+## Bibliography
+
+Janis, Irving L. et Bert T. King, « The Influence of Role Playing on Opinion Change », The Journal of Abnormal and Social Psychology 49, no 2 (1954): 211‑18, https://doi.org/10.1037/h0056957.
+
+
 ## The purpose of this document
 
 Try a new display of Evidence-based claims. 
