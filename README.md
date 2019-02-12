@@ -9,7 +9,7 @@ Tabletop Role-playing Game : Collection of Evidence-based Claims on Experience a
 
 | Original Claim | Supported by | Process -> | TRPG Claim |
 | --- | --- | --- | --- |
-| Role-playing the genuine defense of a case, with a lot of improvisation and being satisfied with his own performance, can change my opinion on this case better than a lecture. | (Janis & King 1954) P CX R+ E PR 0.99 | Transfer | If I roleplay a character with an another point of view than mine, with enough agency and playfullness, I can undestand better this point of view (compare to a lecture on the subject).|
+| Role-playing the genuine defense of a case, with a lot of improvisation and being satisfied with his own performance, can change my opinion on this case better than a lecture. | (Janis & King 1954) P CX R+ E PR 0.99 | Transfer | If I roleplay a character with an another point of view than mine, with enough agency and playfullness, I can undestand better this point of view (compared to a lecture on the subject).|
 
 
 ## Codes
